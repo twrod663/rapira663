@@ -1,5 +1,5 @@
 #profile-update-interval: 1
-#profile-title: ❗️прив я тут главни пачти самы❗️
+#profile-title: P9SL9DNYIVZD6KH
 #profile-web-page-url: 
 #support-url: 
 #announce:   👤 by smokez 🏳️ За свободный интернет!
